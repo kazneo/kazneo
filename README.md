@@ -7,7 +7,7 @@
 🚀 Passionate about solving complex problems with **AI-driven and data-driven solutions**  
 
 ### 🛠️ Skills & Tools
-- **Programming & Frameworks:** Python, SQL, R, JavaScript, React, HTML/CSS, Rust, Qiskit  
+- **Programming & Frameworks:** Python, SQL, R, JavaScript, React, HTML/CSS, Qiskit  
 - **Data Science:** Data Engineering, ETL, ML Model Development, Data Visualization  
 - **Other Tools & Methods:** Agile, Strategic Planning, Cross-functional Collaboration  
 - **Languages:** English (fluent), Japanese (fluent), Spanish (basic)  
