@@ -30,7 +30,7 @@ Built to empower non-technical users with accessible insights through automation
 
 **Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` 
 
-### 🧭 Intelligent Automation Insight (Johnson & Johnson Collaboration)
+### Intelligent Automation Insight (Johnson & Johnson Collaboration)
 Developed a proof-of-concept ML system to detect project similarities, improving resource allocation and delivering ~$4.6K savings per project.
 
 **Tech Stack:** `Python` · `SQL` · `Hugging Face` 
