@@ -73,7 +73,7 @@ Developed a proof-of-concept ML system to detect project similarities, improving
 I’m always open to discussing **AI strategy**, **data-driven automation**, or **innovative open-source projects**.  
 If you’re building something meaningful with data — let’s connect!  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kazuki-neo/)
+[LinkedIn](https://www.linkedin.com/in/kazuki-neo/)
 
 
 
