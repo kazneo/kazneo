@@ -47,15 +47,7 @@ Helping improve resource allocation across projects, delivering approximately $4
 - Integrated MERN stack web components hosted on AWS, improving site performance and scalability.
 - Supported product optimization and UI/UX improvements through iterative testing and feedback loops.
 - Developed tech-focused blog content to enhance brand visibility and audience engagement.  
-  
 
-**Tech Used:** MongoDB · Express.js · React.js · Node.js
-
-
-## 🧰 Tech Toolbox
-**Languages:** Python, JavaScript, SQL, R  
-**ML/AI:** Pandas, NumPy, scikit-learn, PyTorch
-**Other:** Git, Docker (Familiar), Agile/Lean Develpment
 
 
 ## 🌱 Currently Exploring
