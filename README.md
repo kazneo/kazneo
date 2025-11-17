@@ -28,7 +28,8 @@ A RAG-based web application powered by the ChatGPT 4.0 model, designed to extrac
 **Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` 
 
 ### Intelligent Automation Insight (Johnson & Johnson Collaboration)
-Developed a proof-of-concept ML system to detect project similarities, improving resource allocation and delivering ~$4.6K savings per project.
+Developed a proof-of-concept ML system to detect similarities between projects, enabling teams to share resources efficiently rather than duplicating effort. 
+Helping improve resource allocation across projects, delivering approximately $4.6K savings per project.
 
 **Tech Stack:** `Python` · `SQL` · `Hugging Face` 
 
@@ -43,9 +44,10 @@ Developed a proof-of-concept ML system to detect project similarities, improving
 
 ### ⚙️ ZoftBase — Technology Intern  
 *Nov 2020 – Aug 2021 | New York, NY*  
-- Integrated MERN stack web components hosted on AWS, improving site performance and scalability.  
+- Integrated MERN stack web components hosted on AWS, improving site performance and scalability.
+- Supported product optimization and UI/UX improvements through iterative testing and feedback loops.
 - Developed tech-focused blog content to enhance brand visibility and audience engagement.  
-- Supported product optimization and UI/UX improvements through iterative testing and feedback loops.  
+  
 
 **Tech Used:** MongoDB · Express.js · React.js · Node.js
 
