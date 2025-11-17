@@ -5,7 +5,6 @@ I thrive at the intersection of **data science, software engineering, and busine
 
 My projects span **AI-driven analytics**, **automation pipelines**, and **emerging tech research** like **quantum machine learning**.
 
----
 
 ## 🧠 What I Love Working On
 - 🧩 **Machine Learning & AI Systems** — building predictive, adaptive, and scalable models  
@@ -13,7 +12,6 @@ My projects span **AI-driven analytics**, **automation pipelines**, and **emergi
 - 💡 **Full-Stack & Cloud Development** — MERN stack, Python, AWS, APIs, microservices  
 - 🔬 **Emerging Technologies** — exploring quantum algorithms and intelligent automation  
 
----
 
 ## 🚀 Selected Projects
 ### [Luma](https://github.com/The-Luma)
@@ -35,7 +33,6 @@ Developed a proof-of-concept ML system to detect project similarities, improving
 
 **Tech Stack:** `Python` · `SQL` · `Hugging Face` 
 
----
 
 ## 💼 Professional Experience
 
@@ -53,21 +50,18 @@ Developed a proof-of-concept ML system to detect project similarities, improving
 
 **Tech Used:** MongoDB · Express.js · React.js · Node.js
 
----
 
 ## 🧰 Tech Toolbox
 **Languages:** Python, JavaScript, SQL, R  
 **ML/AI:** Pandas, NumPy, scikit-learn, PyTorch
 **Other:** Git, Docker (Familiar), Agile/Lean Develpment
 
----
 
 ## 🌱 Currently Exploring
 - Quantum machine learning applications  
 - AI-driven automation systems  
 - Data-centric development pipelines  
 
----
 
 ## 📫 Let’s Collaborate
 I’m always open to discussing **AI strategy**, **data-driven automation**, or **innovative open-source projects**.  
