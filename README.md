@@ -37,7 +37,7 @@ Developed a proof-of-concept ML system to detect project similarities, improving
 
 ---
 
-## 💼 Professional Experience Projects
+## 💼 Professional Experience
 
 ### 🧭 AlertBoss — AI Solutions Intern  
 *June 2023 – Aug 2023 | New York, NY*  
