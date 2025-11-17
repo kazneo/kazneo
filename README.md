@@ -9,7 +9,9 @@ My projects span **AI-driven analytics**, **automation pipelines**, and **emergi
 ## 🧠 What I Love Working On
 - 🧩 **Machine Learning & AI Systems** — building predictive, adaptive, and scalable models  
 - ⚙️ **Data Engineering & Automation** — transforming raw data into decision-ready insights  
+<!--
 - 💡 **Full-Stack & Cloud Development** — MERN stack, Python, AWS, APIs, microservices  
+-->
 - 🔬 **Emerging Technologies** — exploring quantum algorithms and intelligent automation  
 
 
