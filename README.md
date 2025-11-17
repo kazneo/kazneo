@@ -15,16 +15,15 @@ My projects span **AI-driven analytics**, **automation pipelines**, and **emergi
 
 ## 🚀 Selected Projects
 ### [Luma](https://github.com/The-Luma)
-**AI + NLP | Document Understanding | Semantic Search**
+**RAG | Document Understanding | Semantic Search**
 
-A document intelligence platform leveraging NLP to extract and summarize unstructured text data at scale.  
-Built to empower non-technical users with accessible insights through automation and visualization.
-
+A RAG-based web application powered by the ChatGPT 4.0 model, designed to extract, classify, and summarize unstructured text data at scale. Built to provide non-technical users with accessible insights through automated processing, semantic retrieval, and intuitive visualization.
 **Highlights:**
-- Designed an **end-to-end NLP pipeline** for text classification and information extraction  
-- Implemented **semantic search** using transformer-based embeddings (Hugging Face)  
-- Built an **interactive Streamlit dashboard** for insights and summaries  
-- Deployed with **AWS Lambda + S3** for scalable processing  
+- Developed an end-to-end RAG pipeline combining retrieval, transformer-based embeddings, and GPT-4.0 generation
+- Implemented semantic search for context-aware document retrieval
+- Built an interactive Streamlit web dashboard enabling real-time insights, summaries, and user-driven analysis
+- Added role-based access control (RBAC) supporting multiple users with read-only, read/write, and admin permissions
+- Designed an admin workflow allowing document-space owners to add or remove users, manage roles, and control access to specific namespaces/collections
 
 **Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` 
 
