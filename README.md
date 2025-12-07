@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Kazuki
 
-I’m a **Data & AI Innovator** passionate about building intelligent systems that bridge **machine learning, analytics, and real-world impact**.  
-I thrive at the intersection of **data science, software engineering, and business strategy**, turning ideas into scalable solutions.  
-
-My projects span **AI-driven analytics**, **automation pipelines**, and **emerging tech research** like **quantum machine learning**.
+I’m a data and AI engineer focused on turning complex information into clear, actionable insights.
+My work sits where machine learning, scalable systems, and product strategy meet, helping teams move from raw data to real impact.
+I build intelligent systems, automate workflows, and explore emerging technologies that improve how people interact with information.
 
 
 ## 🧠 What I Love Working On
-- 🧩 **Machine Learning & AI Systems** — building predictive, adaptive, and scalable models  
-- ⚙️ **Data Engineering & Automation** — transforming raw data into decision-ready insights  
-- 🔬 **Emerging Technologies** — exploring quantum algorithms and intelligent automation
+- 🧩 **Machine Learning & AI Systems** — retrieval systems, predictive models, and applied ML
+- ⚙️ **Data Engineering & Automation** — pipelines that make data accessible, reliable, and useful
+- 🔬 **Emerging Technologies** — quantum ML, intelligent automation, and next-wave computing
+
 <!--
 - 💡 **Full-Stack & Cloud Development** — MERN stack, Python, AWS, APIs, microservices  
 -->
@@ -19,19 +19,20 @@ My projects span **AI-driven analytics**, **automation pipelines**, and **emergi
 ### [Luma](https://github.com/The-Luma)
 **RAG | Document Understanding | Semantic Search**
 
-A RAG-based web application powered by the ChatGPT 4.0 model, designed to extract, classify, and summarize unstructured text data at scale. Built to provide non-technical users with accessible insights through automated processing, semantic retrieval, and intuitive visualization.
-**Highlights:**
-- Developed an end-to-end RAG pipeline combining retrieval, transformer-based embeddings, and GPT-4.0 generation
-- Implemented semantic search for context-aware document retrieval
-- Built an interactive Streamlit web dashboard enabling real-time insights, summaries, and user-driven analysis
-- Added role-based access control (RBAC) supporting multiple users with read-only, read/write, and admin permissions
-- Designed an admin workflow allowing document-space owners to add or remove users, manage roles, and control access to specific namespaces/collections
+Built a retrieval augmented generation (RAG) platform combining powerd with OpenAI's GPT-4 model, along with a Rust backend and Svelte frentend UI. 
+Designed for teams who need fast, context-rich insights from unstructured data.
 
-**Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` 
+**Highlights:**
+- Implemented an end-to-end RAG pipeline with embeddings, contextual retrieval, and GPT-4 generation
+- Built an interactive Svelte UI for real-time exploration, summarization, and analysis
+- Added role-based access control and user management features
+- Developed backend logic in Rust and integrated Pinecone, PostgreSQL, and containerized deployment
+
+**Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` · `Docker` · `Jenkins` · `DigitalOcan (Cloud)` 
+
 
 ### Intelligent Automation Insight (Johnson & Johnson Collaboration)
-Developed a proof-of-concept ML system to detect similarities between projects, enabling teams to share resources efficiently rather than duplicating effort. 
-Helping improve resource allocation across projects, delivering approximately $4.6K savings per project.
+Designed an ML-driven similarity system to identify reuse opportunities across projects, improving resource allocation and reducing duplicate effort. Delivered measurable cost savings and supported strategic planning.
 
 **Tech Stack:** `Python` · `SQL` · `Hugging Face` 
 
@@ -40,27 +41,27 @@ Helping improve resource allocation across projects, delivering approximately $4
 
 ### 🧭 AlertBoss — AI Solutions Intern  
 *June 2023 – Aug 2023 | New York, NY*  
-- Proposed AI-driven engagement strategies that improved user satisfaction and retention.  
-- Collaborated across cross-functunal team to translate technical insights into business impact.  
+- Proposed AI-driven engagement strategies to improve user expreince.
+- Contributed to early product design, wireframing, and workflow planning.
+- Translated technical concepts into actionable business decisions.
 
 
 ### ⚙️ ZoftBase — Technology Intern  
 *Nov 2020 – Aug 2021 | New York, NY*  
-- Integrated MERN stack web components hosted on AWS, improving site performance and scalability.
-- Supported product optimization and UI/UX improvements through iterative testing and feedback loops.
-- Developed tech-focused blog content to enhance brand visibility and audience engagement.  
-
+- Integrated MERN components hosted on AWS to improve performance.
+- Supported iterative UI/UX enhancements based on user testing.
+- Wrote technical content to increase visibility and user engagement.
 
 
 ## 🌱 Currently Exploring
-- Quantum machine learning applications  
-- AI-driven automation systems  
-- Data-centric development pipelines  
+- Quantum machine learning
+- AI-driven automation
+- Data pipelines optimized for reliability and scale
 
 
 ## 📫 Let’s Collaborate
-I’m always open to discussing **AI strategy**, **data-driven automation**, or **innovative open-source projects**.  
-If you’re building something meaningful with data — let’s connect!  
+I’m open to collaboration on AI systems, data-driven strategy, and automation tooling.
+If you're building something that pushes data or intelligence forward, I'd love to chat.
 
 [LinkedIn](https://www.linkedin.com/in/kazuki-neo/)
 
