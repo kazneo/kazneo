@@ -17,24 +17,25 @@ I build intelligent systems, automate workflows, and explore emerging technologi
 
 ## 🚀 Selected Projects
 ### [Luma](https://github.com/The-Luma)
+<!--
 **RAG | Document Understanding | Semantic Search**
-
+-->
 Built a retrieval augmented generation (RAG) platform combining powerd with OpenAI's GPT-4 model, along with a Rust backend and Svelte frentend UI. 
 Designed for teams who need fast, context-rich insights from unstructured data.
 
 **Highlights:**
-- Implemented an end-to-end RAG pipeline with embeddings, contextual retrieval, and GPT-4 generation
-- Built an interactive Svelte UI for real-time exploration, summarization, and analysis
+- Implemented an end-to-end RAG pipeline utlizing OpenAI's GPT-4 model
+- Built an interactive application with Svelte UI and Rust Backend
 - Added role-based access control and user management features
 - Developed backend logic in Rust and integrated Pinecone, PostgreSQL, and containerized deployment
 
-**Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` · `Docker` · `Jenkins` · `DigitalOcan (Cloud)` 
+**Tech Stack:** `Svelt` · `Rust` · `Pinecone DB` · `GPT-4 API` · `PostgreSQL` · `Docker` · `Jenkins` · `DigitalOcan (Cloud)` 
 
 
 ### Intelligent Automation Insight (Johnson & Johnson Collaboration)
 Designed an ML-driven similarity system to identify reuse opportunities across projects, improving resource allocation and reducing duplicate effort. Delivered measurable cost savings and supported strategic planning.
 
-**Tech Stack:** `Python` · `SQL` · `Hugging Face` 
+**Tech Stack:** `Python` · `SQL` · `PyTorch` · `Hugging Face` 
 
 
 ## 💼 Professional Experience
