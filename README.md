@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kazuki
 
-I’m a data and AI engineer focused on turning complex information into clear, actionable insights.
+I’m an engineer focused on turning complex information into clear, actionable insights.
 My work sits where machine learning, scalable systems, and product strategy meet, helping teams move from raw data to real impact.
 I build intelligent systems, automate workflows, and explore emerging technologies that improve how people interact with information.
 
